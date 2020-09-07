@@ -12,7 +12,7 @@ This app shows us current weather on the world.
 
 Project for studies.  
 Made by students of the Silesian University of Technology.  
-Inspired by others WeatherApps.  
+Inspired by other WeatherApps.  
 
 ## Technologies
 Project is created with:
